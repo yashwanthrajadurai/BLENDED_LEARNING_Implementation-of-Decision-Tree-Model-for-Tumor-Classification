@@ -2,7 +2,6 @@
 <H3>NAME: YASHWANTH RAJA DURAI V</H3>
 <H3>REGISTER NO.: 212222040184</H3>
 <H3>EX. NO.8</H3>
-<H3>DATE: 15.05.2025</H3>
 
 ## AIM:
 To implement and evaluate a Decision Tree model to classify tumors as benign or malignant using a dataset of lab test results.
